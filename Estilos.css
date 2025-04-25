@@ -39,3 +39,7 @@ body{
     padding: 10px; /* Espaciado interno */
     border-radius: 5px; /* Bordes redondeados */
 }
+.card { transition: transform0.3s ease, box-shadow 0.3s ease; /* Transición suave para el efecto hover */ 
+}
+
+
